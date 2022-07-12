@@ -1,0 +1,10 @@
+D:\DemoProjects\src\JoyTimesheet\Joy.TS.Common\bin\Debug\netcoreapp3.1\Joy.TS.Common.deps.json
+D:\DemoProjects\src\JoyTimesheet\Joy.TS.Common\bin\Debug\netcoreapp3.1\Joy.TS.Common.dll
+D:\DemoProjects\src\JoyTimesheet\Joy.TS.Common\bin\Debug\netcoreapp3.1\Joy.TS.Common.pdb
+D:\DemoProjects\src\JoyTimesheet\Joy.TS.Common\obj\Debug\netcoreapp3.1\Joy.TS.Common.csproj.AssemblyReference.cache
+D:\DemoProjects\src\JoyTimesheet\Joy.TS.Common\obj\Debug\netcoreapp3.1\Joy.TS.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoProjects\src\JoyTimesheet\Joy.TS.Common\obj\Debug\netcoreapp3.1\Joy.TS.Common.AssemblyInfoInputs.cache
+D:\DemoProjects\src\JoyTimesheet\Joy.TS.Common\obj\Debug\netcoreapp3.1\Joy.TS.Common.AssemblyInfo.cs
+D:\DemoProjects\src\JoyTimesheet\Joy.TS.Common\obj\Debug\netcoreapp3.1\Joy.TS.Common.csproj.CoreCompileInputs.cache
+D:\DemoProjects\src\JoyTimesheet\Joy.TS.Common\obj\Debug\netcoreapp3.1\Joy.TS.Common.dll
+D:\DemoProjects\src\JoyTimesheet\Joy.TS.Common\obj\Debug\netcoreapp3.1\Joy.TS.Common.pdb

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Joy.TS.Api
+build_property.ProjectDir = D:\DemoProjects\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS\

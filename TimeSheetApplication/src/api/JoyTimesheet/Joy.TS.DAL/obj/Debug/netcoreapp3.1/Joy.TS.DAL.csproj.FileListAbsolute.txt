@@ -1,0 +1,13 @@
+D:\DemoProjects\src\JoyTimesheet\Joy.TS.DAL\bin\Debug\netcoreapp3.1\Joy.TS.DAL.deps.json
+D:\DemoProjects\src\JoyTimesheet\Joy.TS.DAL\bin\Debug\netcoreapp3.1\Joy.TS.DAL.dll
+D:\DemoProjects\src\JoyTimesheet\Joy.TS.DAL\bin\Debug\netcoreapp3.1\Joy.TS.DAL.pdb
+D:\DemoProjects\src\JoyTimesheet\Joy.TS.DAL\bin\Debug\netcoreapp3.1\Joy.TS.Common.dll
+D:\DemoProjects\src\JoyTimesheet\Joy.TS.DAL\bin\Debug\netcoreapp3.1\Joy.TS.Common.pdb
+D:\DemoProjects\src\JoyTimesheet\Joy.TS.DAL\obj\Debug\netcoreapp3.1\Joy.TS.DAL.csproj.AssemblyReference.cache
+D:\DemoProjects\src\JoyTimesheet\Joy.TS.DAL\obj\Debug\netcoreapp3.1\Joy.TS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoProjects\src\JoyTimesheet\Joy.TS.DAL\obj\Debug\netcoreapp3.1\Joy.TS.DAL.AssemblyInfoInputs.cache
+D:\DemoProjects\src\JoyTimesheet\Joy.TS.DAL\obj\Debug\netcoreapp3.1\Joy.TS.DAL.AssemblyInfo.cs
+D:\DemoProjects\src\JoyTimesheet\Joy.TS.DAL\obj\Debug\netcoreapp3.1\Joy.TS.DAL.csproj.CoreCompileInputs.cache
+D:\DemoProjects\src\JoyTimesheet\Joy.TS.DAL\obj\Debug\netcoreapp3.1\Joy.TS.DAL.csproj.CopyComplete
+D:\DemoProjects\src\JoyTimesheet\Joy.TS.DAL\obj\Debug\netcoreapp3.1\Joy.TS.DAL.dll
+D:\DemoProjects\src\JoyTimesheet\Joy.TS.DAL\obj\Debug\netcoreapp3.1\Joy.TS.DAL.pdb

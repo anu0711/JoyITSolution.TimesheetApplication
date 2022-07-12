@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mZmPyC3ANDZZIPcN58OfbL2OCbY9aOvZ4+C8SfE1rvb/2sMBR4o7lBE9QTEX+TMYzrMJFbN1xxQ+ugitytcseQ==",
+  "success": true,
+  "projectFilePath": "D:\\DemoProjects\\TimeSheetApplication\\src\\api\\JoyTimesheet\\Joy.TS.DAL\\Joy.TS.DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin-pc\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Admin-pc\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.1\\swashbuckle.aspnetcore.swagger.6.3.1.nupkg.sha512",
+    "C:\\Users\\Admin-pc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.1\\swashbuckle.aspnetcore.swaggergen.6.3.1.nupkg.sha512",
+    "C:\\Users\\Admin-pc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.1\\swashbuckle.aspnetcore.swaggerui.6.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
