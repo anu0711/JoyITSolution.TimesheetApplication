@@ -5,5 +5,8 @@
   </PropertyGroup>
   <PropertyGroup>
     <ActiveDebugProfile>Joy.TS</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS\Properties\PublishProfiles\TimesheetJY - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <Controller_SelectedScaffolderID>ApiControllerEmptyScaffolder</Controller_SelectedScaffolderID>
+    <Controller_SelectedScaffolderCategoryPath>root/Common/Api</Controller_SelectedScaffolderCategoryPath>
   </PropertyGroup>
 </Project>

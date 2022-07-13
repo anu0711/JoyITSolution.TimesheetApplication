@@ -1,0 +1,15 @@
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.BAL\bin\Release\netcoreapp3.1\Joy.TS.BAL.deps.json
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.BAL\bin\Release\netcoreapp3.1\Joy.TS.BAL.dll
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.BAL\bin\Release\netcoreapp3.1\Joy.TS.BAL.pdb
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.BAL\bin\Release\netcoreapp3.1\Joy.TS.Common.dll
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.BAL\bin\Release\netcoreapp3.1\Joy.TS.DAL.dll
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.BAL\bin\Release\netcoreapp3.1\Joy.TS.Common.pdb
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.BAL\bin\Release\netcoreapp3.1\Joy.TS.DAL.pdb
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.BAL\obj\Release\netcoreapp3.1\Joy.TS.BAL.csproj.AssemblyReference.cache
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.BAL\obj\Release\netcoreapp3.1\Joy.TS.BAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.BAL\obj\Release\netcoreapp3.1\Joy.TS.BAL.AssemblyInfoInputs.cache
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.BAL\obj\Release\netcoreapp3.1\Joy.TS.BAL.AssemblyInfo.cs
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.BAL\obj\Release\netcoreapp3.1\Joy.TS.BAL.csproj.CoreCompileInputs.cache
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.BAL\obj\Release\netcoreapp3.1\Joy.TS.BAL.csproj.CopyComplete
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.BAL\obj\Release\netcoreapp3.1\Joy.TS.BAL.dll
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.BAL\obj\Release\netcoreapp3.1\Joy.TS.BAL.pdb

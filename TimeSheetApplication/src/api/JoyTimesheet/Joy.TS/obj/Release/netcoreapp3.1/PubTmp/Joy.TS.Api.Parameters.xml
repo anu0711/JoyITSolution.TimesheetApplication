@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="TimesheetJY" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\projects\\GitHubRepo\\JoyITSolution\.TimesheetApplication\\TimeSheetApplication\\src\\api\\JoyTimesheet\\Joy\.TS\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

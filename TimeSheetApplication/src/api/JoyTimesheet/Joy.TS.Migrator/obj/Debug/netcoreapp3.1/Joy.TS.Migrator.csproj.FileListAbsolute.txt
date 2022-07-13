@@ -1,0 +1,15 @@
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.Migrator\bin\Debug\netcoreapp3.1\Joy.TS.Migrator.deps.json
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.Migrator\bin\Debug\netcoreapp3.1\Joy.TS.Migrator.dll
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.Migrator\bin\Debug\netcoreapp3.1\Joy.TS.Migrator.pdb
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.Migrator\bin\Debug\netcoreapp3.1\Joy.TS.Common.dll
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.Migrator\bin\Debug\netcoreapp3.1\Joy.TS.DAL.dll
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.Migrator\bin\Debug\netcoreapp3.1\Joy.TS.Common.pdb
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.Migrator\bin\Debug\netcoreapp3.1\Joy.TS.DAL.pdb
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.Migrator\obj\Debug\netcoreapp3.1\Joy.TS.Migrator.csproj.AssemblyReference.cache
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.Migrator\obj\Debug\netcoreapp3.1\Joy.TS.Migrator.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.Migrator\obj\Debug\netcoreapp3.1\Joy.TS.Migrator.AssemblyInfoInputs.cache
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.Migrator\obj\Debug\netcoreapp3.1\Joy.TS.Migrator.AssemblyInfo.cs
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.Migrator\obj\Debug\netcoreapp3.1\Joy.TS.Migrator.csproj.CoreCompileInputs.cache
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.Migrator\obj\Debug\netcoreapp3.1\Joy.TS.Migrator.csproj.CopyComplete
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.Migrator\obj\Debug\netcoreapp3.1\Joy.TS.Migrator.dll
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.Migrator\obj\Debug\netcoreapp3.1\Joy.TS.Migrator.pdb

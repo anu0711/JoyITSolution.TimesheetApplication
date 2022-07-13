@@ -1,0 +1,10 @@
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.Common\bin\Release\netcoreapp3.1\Joy.TS.Common.deps.json
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.Common\bin\Release\netcoreapp3.1\Joy.TS.Common.dll
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.Common\bin\Release\netcoreapp3.1\Joy.TS.Common.pdb
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.Common\obj\Release\netcoreapp3.1\Joy.TS.Common.csproj.AssemblyReference.cache
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.Common\obj\Release\netcoreapp3.1\Joy.TS.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.Common\obj\Release\netcoreapp3.1\Joy.TS.Common.AssemblyInfoInputs.cache
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.Common\obj\Release\netcoreapp3.1\Joy.TS.Common.AssemblyInfo.cs
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.Common\obj\Release\netcoreapp3.1\Joy.TS.Common.csproj.CoreCompileInputs.cache
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.Common\obj\Release\netcoreapp3.1\Joy.TS.Common.dll
+E:\projects\GitHubRepo\JoyITSolution.TimesheetApplication\TimeSheetApplication\src\api\JoyTimesheet\Joy.TS.Common\obj\Release\netcoreapp3.1\Joy.TS.Common.pdb
